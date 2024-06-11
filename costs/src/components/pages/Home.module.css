@@ -1,0 +1,41 @@
+.main{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+}
+
+.main > h1{
+    font-size: 40px;
+}
+
+.costs{
+    background-color: #222;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #ffbb33;
+}
+
+.main > p{
+    color: rgb(116, 116, 116);
+}
+
+.main > a {
+    text-decoration: none;
+    background-color: #222;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+
+.main > a:hover{
+    transform: scale(1.05);
+}
+
+.img{
+    width: 400px;
+}

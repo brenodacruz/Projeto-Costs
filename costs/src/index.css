@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html,
+body,
+#root,
+.App{
+  height: 100%;
+  background-color: rgb(224, 224, 224);
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+}

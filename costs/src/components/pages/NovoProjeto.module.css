@@ -1,0 +1,13 @@
+.container_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0px 0px 100px 0px;
+    margin-top: 20px;
+}
+
+.container p{
+    color: #7b7b7b;
+    background-color: blue;
+}

@@ -1,0 +1,31 @@
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+    padding: 10px;
+    flex-direction: column;
+    color: white;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 40px;
+
+}
+
+.item{
+    font-size: 60px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.item:hover{
+    transform: scale(1.05);
+    color: #ffbb33;
+}
+
+
