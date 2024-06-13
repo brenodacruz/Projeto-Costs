@@ -3,9 +3,14 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-   flex: 1;
+    flex: 1;
+    margin-bottom: 100px;
 }
 
 .min-height{
     min-height: 75vh;
+}
+
+.start{
+    justify-content: flex-start;
 }
