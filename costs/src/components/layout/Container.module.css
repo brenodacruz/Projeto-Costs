@@ -1,7 +1,7 @@
 .container{
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     flex: 1;
     margin-bottom: 100px;
@@ -11,6 +11,7 @@
     min-height: 75vh;
 }
 
-.start{
+.column{
+    flex-direction: column;
     justify-content: flex-start;
 }
