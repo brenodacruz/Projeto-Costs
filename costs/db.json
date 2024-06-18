@@ -13,11 +13,22 @@
     },
     {
       "id": "9c7f",
-      "name": "Digite seu nom",
-      "budget": "11",
+      "name": "Projeto 333333",
+      "budget": "11000",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "4d8e",
+      "name": "Software #1",
+      "budget": "10000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
