@@ -15,7 +15,7 @@
     
 }
 
-.card h4{
+h4{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,12 +28,12 @@
     margin-bottom: 1.3em;
 }
 
-.card p{
+p{
     color: #7a7a7a;
     margin-bottom: 1em;
 }
 
-.card p span {
+span{
     font-weight: bold;
 }
 

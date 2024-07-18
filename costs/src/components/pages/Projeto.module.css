@@ -22,7 +22,7 @@
 .details_container,
 .service_form_Container{
     border-bottom: 1px solid #7a7a7a;
-    padding-bottom: 1.2em;
+    padding: 1.2em 0;
 
     display: flex;
     justify-content: space-between;
